@@ -1,9 +1,11 @@
 ## About
 
-This is a hands-on demo which exemplifies a robust method of extracting text from **Romanian ID Cards** (also known as *"buletine"*) using Cloud-based Services.
+This is a hands-on demo which exemplifies a robust method of extracting text from **Romanian ID Cards** (also known as *"buletine"*) using the **Template-Parser** service.
 Unfortunately, the original images used to validate this cannot be published without heavy blurring to prevent disclosure of personal information.
 
-However, two images are available for public access and have been also uplodaded in this repository. Both are ID card samples which present placeholder / invalid information and therefore do not belong to a specific person.
+Please find [in this article](https://overfitted.io/template-parser/text-extraction-romanian-id-cards-ocr) more information with regard to this subject.
+
+However, two images are available for public access and have been also uploaded in this repository. Both are ID card samples which present placeholder / invalid information and therefore do not belong to a specific person.
 
 
 ## Run
